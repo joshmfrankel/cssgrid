@@ -1,12 +1,10 @@
-/**
- * Josh Frankel
- */
+Author: Josh Frankel
+
 Added support for inner rows
 
 
-/**
- * Original ReadMe by andytlr
- **/
+Original ReadMe
+Author: Andytlr
 
 This grid system is has not been updated in over a year. I learnt a lot making it, but as a result, I didn't *need* to use it. Therefore the impetus to maintain it has not been there.
 
