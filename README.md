@@ -2,16 +2,16 @@ Updated ReadMe
 
 Author: Josh Frankel
 
-Removed Reset.css
-Removed Flexible Media
-Added desktop suport for inner rows
-Changed .last to .lastcol for improved semantics
-Labeled gutter width 
-Removed smaller screen media query
-Removed body font-size property, should use normalize.css or flexible typography
-Added mobile support for inner rows
-Added inner container class
-Fixed inner container gutter issue, change this if you change the gutter width value
+Removed Reset.css  
+Removed Flexible Media  
+Added desktop suport for inner rows  
+Changed .last to .lastcol for improved semantics  
+Labeled gutter width   
+Removed smaller screen media query  
+Removed body font-size property, should use normalize.css or flexible typography  
+Added mobile support for inner rows  
+Added inner container class  
+Fixed inner container gutter issue, change this if you change the gutter width value  
 
 
 ##########################################
